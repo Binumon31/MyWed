@@ -32,7 +32,7 @@
    - The workflow will automatically deploy on every push to `main`
 
 5. **Access Your Site**:
-   - Your website will be live at: `https://YOUR_USERNAME.github.io/MyWed/`
+   - Your website will be live at: `https://YOUR_USERNAME.github.io/`
    - It may take 2-3 minutes for the first deployment
 
 ### Manual Deployment (Alternative)

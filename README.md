@@ -50,7 +50,7 @@ npm install
 npm run dev
 ```
 
-The site will be available at `http://localhost:5173/MyWed/`
+The site will be available at `http://localhost:5173/`
 
 ### Build for Production
 
